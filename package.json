@@ -1,0 +1,21 @@
+{
+  "name": "real_estate",
+  "version": "1.0.0",
+  "description": "Project's real estate for improve knowledge and skills",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matiasbenites/project_realestate.git"
+  },
+  "keywords": [],
+  "author": "Benites, Matias Maximiliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matiasbenites/project_realestate/issues"
+  },
+  "homepage": "https://github.com/Matiasbenites/project_realestate#readme"
+}
