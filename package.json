@@ -1,7 +1,7 @@
 {
-  "name": "real_estate",
+  "name": "personal_API",
   "version": "1.0.0",
-  "description": "Project's real estate for improve knowledge and skills",
+  "description": "A little tutorial made it for improve skills about how to create and deploy a personal API",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
